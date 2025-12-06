@@ -9,6 +9,7 @@ $warning:       #faf8f7;
 $danger:        #F4EDE5;
 
 
+
 // Font-Size
 $font-size-base:              1rem;
 $h1-font-size:                $font-size-base * 5.875;
@@ -28,11 +29,15 @@ $container-max-widths: (
   xxl: 1320px
 );
 
-// Nav-Bar
+// Nav-Bar Lignt
 $navbar-light-color: rgb(81, 49, 37);
 $navbar-light-active-color: rgb(196, 122, 95);
 $navbar-light-hover-color: rgb(196, 122, 95);
 
+// Navbar Dark
+$navbar-dark-color:                 rgb(255, 255, 255);
+$navbar-dark-hover-color:           rgb(196, 122, 95);
+$navbar-dark-active-color:          rgb(196, 122, 95);
 
 // Spacers
 $spacer: 1rem;
