@@ -77,17 +77,12 @@ p,h1,h2,h3,h4,h5,h6{
     top: 70%;
 }
 .courses .course .box-merge{
-    width: 85%;
+    width: 85%;                                                                                                                                                                                                                                                                                             
     position: absolute;
     left: 32px;
     top: 70%;
 
 }
-// @media(max-width: 991.98px){
-//     .courses .course .box-merge{
-//         position: relative;
-//     }
-// }
 
 @media (max-width: 991.98px){
     .courses .course .box{
